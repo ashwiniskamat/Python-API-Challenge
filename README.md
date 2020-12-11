@@ -1,6 +1,7 @@
 # Python-API-Challenge
 
-WEATHERPY
+WEATHERPY:  
+
 This Python code randomly selects and creates a list of over 500 cities from around the world. The code gathers data 
 from the OpenWeatherMap API to create a weather model across world cities. 
 
@@ -22,7 +23,8 @@ is run on each relationship.
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
-VACATIONPY
+VACATIONPY:
+
 This code uses jupyter-gmaps and the Google Places API to analyze weather data and does the following:
 - create a heat map that displays humidity for various cities
 - narrows down a DataFrame to find ideal weather conditions
